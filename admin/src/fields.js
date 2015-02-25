@@ -7,6 +7,7 @@ module.exports = {
 	color:            require('../../fields/types/color/ColorField'),
 	date:             require('../../fields/types/date/DateField'),
 	datetime:         require('../../fields/types/datetime/DatetimeField'),
+	editimage:        require('../../fields/types/editimage/EditImageField'),
 	email:            require('../../fields/types/email/EmailField'),
 	embedly:          require('../../fields/types/embedly/EmbedlyField'),
 	geopoint:         require('../../fields/types/geopoint/GeoPointField'),
